@@ -3,4 +3,4 @@ este es mi primer repositorio
 
 este es el primer cambio
 
-experimentando en una nueva rama nuevas funcionalidades
+experimentando en una nueva funcionalidad
